@@ -138,7 +138,6 @@
             <groupId>org.jboss.modules</groupId>
             <artifactId>jboss-modules</artifactId>
             <version>${modules.version}</version>
-            <scope>provided</scope>
             <optional>true</optional>
         </dependency>
 
